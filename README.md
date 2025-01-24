@@ -11,6 +11,7 @@
 </p>
 
 <p align="center">
+  <a href="#environment">🤗 Environment</a> •
   <a href="#inferencedemo">🤗 Inference Demo</a> •
   <a href="#finetuningdemo">🤗 Finetuning Demo</a>
 </p>
@@ -64,11 +65,26 @@
 
 
 
-## 🤗 Inference Demo
+## 🤗 Environment
 
-> **Environment:**
-> 
-> transformers==
+Please use the same environment:
+
+- python==3.11.5
+- torch==2.3.1+cu118
+- transformers==4.46.0
+- datasets==2.18.0
+- huggingface_hub==0.24.2
+- wandb==0.14.2
+- numpy==1.23.5
+- tqdm==4.66.4
+
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div id="finetuningdemo">&nbsp;</div>
+
+
+
+## 🤗 Inference Demo
 
 ### QA
 
