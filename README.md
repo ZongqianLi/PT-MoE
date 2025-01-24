@@ -47,7 +47,7 @@
 
 ## ✨ Introduction
 
-### Overview comparison
+### Overview performance
 
 ### Architecture
 
