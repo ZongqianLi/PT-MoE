@@ -61,7 +61,7 @@
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
-<div id="inferencedemo">&nbsp;</div>
+<div id="environment">&nbsp;</div>
 
 
 
@@ -80,7 +80,7 @@ Please use the same environment:
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
-<div id="finetuningdemo">&nbsp;</div>
+<div id="inferencedemo">&nbsp;</div>
 
 
 
