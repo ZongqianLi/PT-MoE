@@ -11,14 +11,14 @@
 </p>
 
 <p align="center">
-  <a href="#environment">🤗 Environment</a> •
+  <a href="#environment">🖥️ Environment</a> •
   <a href="#inferencedemo">🤗 Inference Demo</a> •
   <a href="#finetuningdemo">🤗 Finetuning Demo</a>
 </p>
 
 <p align="center">
-  <a href="#evaluation">📖 Evaluation</a> •
-  <a href="#results">📖 Results</a>
+  <a href="#evaluation">✏️ Evaluation</a> •
+  <a href="#results">🎲 Results</a>
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@
 
 
 
-## 🤗 Environment
+## 🖥️ Environment
 
 Please use the same environment:
 
@@ -118,7 +118,7 @@ output
 
 
 
-## 📖 Evaluation
+## ✏️ Evaluation
 
 ### QA
 
@@ -131,7 +131,7 @@ output
 
 
 
-## 📖 Results
+## 🎲 Results
 
 ### QA
 
