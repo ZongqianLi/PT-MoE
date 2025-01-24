@@ -66,6 +66,10 @@
 
 ## 🤗 Inference Demo
 
+> **Environment:**
+> 
+> transformers==
+
 ### QA
 
 ### Math
