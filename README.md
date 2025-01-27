@@ -54,10 +54,28 @@
 
 ### Overview performance
 
+- 1
+- 2
+- 3
+
+<p align="left">
+  <img src="./figures/cover_figure.png" width="30%">
+</p>
+
 ### Architecture
+
+- **Soft prompt decomposition:** The soft prompt is decomposed into several A matrices and a B matrix.
+- **Router mechanism:** The router chooses the A matrix according to the input text.
+
+<p align="left">
+  <img src="./figures/method.png" width="30%">
+</p>
 
 ### Contributions
 
+- 1
+- 2
+- 3
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
