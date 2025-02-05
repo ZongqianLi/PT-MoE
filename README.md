@@ -64,7 +64,7 @@
 
 ### Architecture
 
-- **Soft prompt decomposition:** The soft prompt is decomposed into several A matrices and a B matrix.
+- **Soft prompt decomposition:** The soft prompt is decomposed into an A matrix and a B matrix.
 - **Router mechanism:** The router chooses the A matrix according to the input text.
 
 <p align="left">
