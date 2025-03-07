@@ -199,4 +199,8 @@ output
 
 ## 🔖 License
 
-This project is licensed under the Creative Commons Attribution 4.0 International License - see the [LICENSE](https://creativecommons.org/licenses/by/4.0/deed.en) for details.
+```
+
+```
+
+
