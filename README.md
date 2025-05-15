@@ -187,7 +187,8 @@ Accuracy (\%) on mathematical problem-solving tasks with the number of trainable
 ## 💾 Download
 
 - [PT-MoE for QA based on llama-3.2-1b-it]()
-- [PT-MoE for math based on llama-3.2-1b-it]() 
+- [PT-MoE for math based on llama-3.2-1b-it]()
+- [PT-MoE for math based on llama-3.2-3b-it]() 
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
