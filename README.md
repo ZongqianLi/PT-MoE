@@ -188,7 +188,15 @@ output
 ## 📌 Citation
 
 ```
-
+@misc{li2025ptmoeefficientfinetuningframework,
+      title={PT-MoE: An Efficient Finetuning Framework for Integrating Mixture-of-Experts into Prompt Tuning}, 
+      author={Zongqian Li and Yixuan Su and Nigel Collier},
+      year={2025},
+      eprint={2505.09519},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.09519}, 
+}
 ```
 
 <div>&nbsp;</div>
