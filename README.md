@@ -51,7 +51,7 @@
 
 ## ✏️ Todo
 
-- [] Upload the codes.
+- [ ] Upload the codes.
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
