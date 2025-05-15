@@ -41,7 +41,7 @@
 
 ## 🚀 News
 
-- **[2025.01.24]** This page is created.
+- **[2025.05.15]** This page is created.
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
