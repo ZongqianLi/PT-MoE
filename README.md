@@ -69,18 +69,15 @@
 
 ### Overview performance
 
-- 1
-- 2
-- 3
+Performance comparison of PEFT methods on 12 QA datasets in the MRQA benchmark (upper) and 5 math datasets (lower). ↑ indicates higher is better; ↓ indicates lower is better:
 
 <p align="left">
-  <img src="./figures/cover_figure.png" width="30%">
+  <img src="./figures/cover_figure_2.png" width="40%">
 </p>
 
 ### Architecture
 
-- **Soft prompt decomposition:** The soft prompt is decomposed into an A matrix and a B matrix.
-- **Router mechanism:** The router chooses the A matrix according to the input text.
+Framework of PT-MoE. Each soft prompt is decomposed into an input-specific matrix $A_i$ and a shared matrix $B$, with a router adaptively selecting and combining prompt components based on input. The resulting soft prompt is prepended to the input for the frozen LLM:
 
 <p align="left">
   <img src="./figures/method.png" width="30%">
