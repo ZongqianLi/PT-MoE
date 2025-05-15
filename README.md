@@ -76,7 +76,7 @@ Performance comparison of PEFT methods on 12 QA datasets in the MRQA benchmark (
   <img src="./figures/cover_figure_2.png" width="40%">
 </p>
 
-### Architecture
+### Framework
 
 Framework of PT-MoE. Each soft prompt is decomposed into an input-specific matrix $A_i$ and a shared matrix $B$, with a router adaptively selecting and combining prompt components based on input. The resulting soft prompt is prepended to the input for the frozen LLM:
 
