@@ -51,7 +51,7 @@
 
 ## ✏️ Todo
 
-- [ ] Upload the paper to the Arxiv.
+- [] Upload the codes.
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
@@ -60,6 +60,12 @@
 
 
 ## ✨ Introduction
+
+### Contributions
+
+- **Novel finetuning framework:** We propose PT-MoE, integrating matrix decomposition with MoE for prompt tuning. Our framework achieves state-of-the-art performance with fewer parameters while outperforming either method alone, demonstrating their complementary benefits.
+- **Design dynamics:** We thoroughly analyze key variables influencing the performance of PT-MoE, including prompt length, expert count, trainable parameters, routing mechanisms, and model size. Findings provide design guidelines for future parameter-efficient tuning approaches.
+- **Comprehensive analysis:** We provide detailed empirical studies across diverse tasks, including QA and mathematical problem solving, establishing a basis for future work in efficient finetuning methods.
 
 ### Overview performance
 
@@ -79,12 +85,6 @@
 <p align="left">
   <img src="./figures/method.png" width="30%">
 </p>
-
-### Contributions
-
-- 1
-- 2
-- 3
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
