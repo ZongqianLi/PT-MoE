@@ -52,6 +52,7 @@
 ## ✏️ Todo
 
 - [ ] Upload the codes.
+- [ ] Upload the models.
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
