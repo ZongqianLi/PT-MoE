@@ -129,11 +129,7 @@ tqdm==4.66.4
 
 ### QA
 
-data format
 
-codes
-
-output
 
 ### Math
 
@@ -162,8 +158,25 @@ output
 
 ### QA
 
+Evaluation results (F1 scores) for various PEFT methods on MRQA datasets. SQ: SQuAD; News: NewsQA; Tri: TriviaQA; Srch: SearchQA; HP: HotpotQA; NQ: NaturalQuestions; BSQ: BioASQ; DP: DROP; DRC: DuoRC; RC: RACE; RE: RelationExtraction; TB: TextbookQA. The bold values indicate the best performance among prompt tuning-based methods:
+
+<p align="left">
+  <img src="./figures/QA_F1.jpg" width="80%">
+</p>
+
+Evaluation results (Exact Match) for MRQA datasets:
+
+<p align="left">
+  <img src="./figures/QA_EM.jpg" width="80%">
+</p>
+
 ### Math
 
+Accuracy (\%) on mathematical problem-solving tasks with the number of trainable parameters shown in the second column. The first four out-of-domain datasets are from the SVAMP dataset. MP500 denotes the first 500 questions from MATH\_PROBLEMS:
+
+<p align="left">
+  <img src="./figures/math_accuracy.jpg" width="80%">
+</p>
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
