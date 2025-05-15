@@ -33,8 +33,8 @@
 </p>
 
 <p align="center">
-  <a href="">Project Page</a> •
-  <a href="">Paper</a>
+  <a href="https://github.com/ZongqianLi/PT-MoE/blob/main/README.md">Project Page</a> •
+  <a href="https://arxiv.org/abs/2505.09519">Paper</a>
 </p>
 
 
