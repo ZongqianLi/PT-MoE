@@ -1,4 +1,4 @@
-# PT-MoE: An Efficient Finetuning Framework for Integrating Mixture-of-Experts into Prompt Tuning
+# [NeurIPS 2025 Main] PT-MoE: An Efficient Finetuning Framework for Integrating Mixture-of-Experts into Prompt Tuning
 
 <p align="center">
   <b>Content</b>
